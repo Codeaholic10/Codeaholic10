@@ -1,7 +1,5 @@
 <!-- Replace github-header-banner1.png with your own banner image in the repository root -->
-<div align="center">
-  <img src="github-header-banner1.png" alt="Header Banner" width="100%"/>
-</div>
+
 
 <br/>
 
