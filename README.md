@@ -1,64 +1,66 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Aaditya%20Gautam&fontSize=90&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Aaditya%20Gautam&fontSize=90&animation=fadeIn" />
+  
+  <h3>🚀 Data Science Explorer & Front-End Craftsman</h3>
+  
+  <p>
+    <a href="https://github.com/codeaholic10"><img src="https://img.shields.io/badge/Front--End-Developer-blue?style=for-the-badge" /></a>
+    <a href="https://github.com/codeaholic10"><img src="https://img.shields.io/badge/Data--Science-Enthusiast-green?style=for-the-badge" /></a>
+  </p>
 </div>
 
-## 💫 About Me
-<table>
-  <tr>
-    <td>
-      <h3>Hi there! I'm Aaditya 👋</h3>
-      <p>A passionate developer who loves building products and crunching data. I specialize in <b>Full-Stack Development</b> and <b>Machine Learning</b>. Currently exploring the intersection of AI and mobile interfaces.</p>
-      <p>• 🔭 I’m currently working on high-performance web apps.<br>
-         • 🌱 I’m currently learning advanced Deep Learning architectures.<br>
-         • ⚡ <b>Fun fact:</b> I turn coffee into clean code and I'm a massive <b>Formula 1</b> fan—catching every race weekend!</p>
-    </td>
-    <td width="300px">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnFidG94bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
-    </td>
-  </tr>
-</table>
+---
+
+### ⚡ Quick Bytes
+- 🔭 **Currently:** Building sleek, data-driven front-end interfaces.
+- 🌱 **Learning:** Mastering Natural Language Processing (NLP) and advanced ML models.
+- 📚 **Currently Reading:** *Project Hail Mary* by Andy Weir.
+- 🏎️ **Fun Fact:** I turn coffee into clean code and I'm a massive **Formula 1** fan—I never miss a race weekend!
 
 ---
 
-## 💻 Tech Stack
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-efd81d?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599c?style=flat-square&logo=c%2B%2B&logoColor=white) |
-| **Data Science** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-scikit--learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
-| **Web / Mobile** | ![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/-React_Native-61dafb?style=flat-square&logo=react&logoColor=black) ![MongoDB](https://img.shields.io/badge/-MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Design/Org** | ![Figma](https://img.shields.io/badge/-Figma-f24e1e?style=flat-square&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white) |
+### 🛠️ My Toolbox
+
+#### 💻 Core Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+#### 📊 Data Science & AI
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=Matplotlib&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+
+#### 🎨 Front-End & Tools
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=codeaholic10&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="100%"/>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeaholic10&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=codeaholic10&theme=dark&hide_border=false" width="100%"/>
-    </td>
-  </tr>
-</table>
+### 📊 Vital Signs
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codeaholic10&theme=vision-friendly-dark&show_icons=true&hide_border=true" alt="Aaditya's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeaholic10&theme=vision-friendly-dark&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-## 🆕 Recent Repositories
-<a href="https://github.com/codeaholic10">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeaholic10&repo=BlogVerse&theme=dark" />
-</a>
-<a href="https://github.com/codeaholic10">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeaholic10&repo=house-price-prediction&theme=dark" />
-</a>
+### 📚 Reading List
+> "Science and survival." 
+> Currently diving into **Project Hail Mary** by Andy Weir. If you have any sci-fi or tech-related book recommendations, feel free to reach out!
 
-<br/>
+---
+
+### 🆕 Latest Creations
+<div align="center">
+  <a href="https://github.com/codeaholic10/BlogVerse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeaholic10&repo=BlogVerse&theme=vision-friendly-dark" />
+  </a>
+  <a href="https://github.com/codeaholic10/house-price-prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeaholic10&repo=house-price-prediction&theme=vision-friendly-dark" />
+  </a>
+</div>
+
+<br />
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=codeaholic10&icon=0&color=0" />
+  <img src="https://visitcount.itsvg.in/api?id=codeaholic10&icon=5&color=12" alt="Visitor Count" />
 </div>
