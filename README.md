@@ -10,8 +10,7 @@
 - 🔭 I'm currently working on **Multimodal Emotion Recognition (EGHG-T on MELD dataset)**
 - 🌱 I'm currently mastering **NLP, LLMs, and Advanced Deep Learning**
 - 👯 Looking to collaborate on **AI/ML research and data-driven full stack projects**
-- 🏫 **Technical Head** at Developer Student Club, BVCOE | **CGPA: 9.39**
-- 📚 Currently reading: *Project Hail Mary* by Andy Weir
+- 📚 Currently reading: *And Then there Were None* by Agatha Christie
 - 📫 Reach me at **aadi.tidy99@gmail.com**
 - ⚡ Fun fact: **I'm a massive Formula 1 fan 🏎️ — I never miss a race weekend!**
 
